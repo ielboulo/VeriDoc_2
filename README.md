@@ -1,1 +1,0 @@
-# VotingSystem_A
